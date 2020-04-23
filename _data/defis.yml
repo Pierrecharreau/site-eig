@@ -795,6 +795,43 @@
     - "Evelyne Vezinet"
     - "Béatrice Clément"
     - "Emmanuelle Rosnet"
+    
+   key_figures:
+- amount: 4
+    - amount: 39
+      description: "entretiens qualitatifs"
+    - amount: 4
+      description: "ateliers collectifs"
+    - amount: 6
+      description: "session de tests utilisateurs"
+    - amount: 98%
+      description: "d’intéressés par le service"
+      
+projects:
+- image: img/realisations/2019/Verslecolepourtous_Synthese_2020
+- title: "Synthèse"
+- description: "Présentation du défi et de ses grandes étapes de conception"
+- url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Verslecolepourtous_Synthèse_042020
+- call_to_action: "Consulter la synthèse"
+
+- image: img/realisations/2019/Verslecolepourtous_MaquettefinalelivreealaDSI_2020
+- title: "Maquette finale livrée à la DSI"
+- description: "Présentation du défi et de ses grandes étapes de conception"
+- url: https://www.figma.com/proto/3A58YNHArkluN5vdh1Ir1e/Iteration-VIII?node-id=480%3A3439&viewport=120%2C134%2C0.06216467544436455&scaling=min-zoom
+- call_to_action: "Voir la maquette"
+
+- image: img/realisations/2019/Verslecolepourtous_Plateformeenpreproduction_2020
+- title: "Plateforme en pré-production"
+- description: "Lien vers le site"
+- url: https://portail.ac-clermont.fr/ecole-inclusive-re/
+- call_to_action: "Consulter le site"
+
+- image: img/realisations/2019/Verslecolepourtous_DocumentduProjet_2020
+- title: "Documentation du projet"
+- description: "La documentation principale de ce projet est publiée en ligne et accessible librement"
+- url: https://github.com/entrepreneur-interet-general/verslecolepourtous
+- call_to_action: "Découvrir la documentation"
+
 
 "ProxiRH":
   image: /img/defis/dig/ProxiRH.png
